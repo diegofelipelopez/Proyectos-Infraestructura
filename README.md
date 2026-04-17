@@ -1,1 +1,1 @@
-# Proyectos de IT, enfocados en Ciberseguirdad, Redes, Monitorizacion, Automatizacion y mas!!!
+# Proyectos de IT, enfocados en Ciberseguridad, Redes, Monitorizacion, Automatizacion y mas!!!
